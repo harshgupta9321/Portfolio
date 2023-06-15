@@ -616,7 +616,8 @@ span{
 
 @media(max-width:1024px){
     .header{
-        padding: 2rem ;
+        padding: 3rem;
+        padding-right: 2rem;
     }
 
     section{
@@ -888,3 +889,11 @@ span{
         margin-top: 2rem;
     }
 } 
+
+
+#darkmode-icon {
+    padding-right: 11rem;
+}
+#menu-icon{
+    padding-right: 10rem;
+}
