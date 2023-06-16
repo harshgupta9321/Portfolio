@@ -534,7 +534,7 @@ span{
     flex-wrap: wrap;
 }
 
-.contact form .input-box input,
+.contact form .input-box ,
 .contact form textarea{
     width: 100%;
     padding: 1.5rem;
@@ -546,9 +546,9 @@ span{
     box-shadow: 0 .1rem .5rem var(--shadow-color);
 }
 
-.contact form .input-box input{
+/* .contact form .input-box{
     width: 49%;
-}
+} */
 
 .contact form textarea{
     resize: none;
@@ -891,9 +891,9 @@ span{
 } 
 
 
-#darkmode-icon {
+/* #darkmode-icon {
     padding-right: 11rem;
 }
 #menu-icon{
     padding-right: 10rem;
-}
+} */
